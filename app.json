@@ -1,0 +1,7 @@
+{
+	"name": "HyuuraBotzV3",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "privat",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}
